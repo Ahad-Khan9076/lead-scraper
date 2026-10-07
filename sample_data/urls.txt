@@ -1,0 +1,6 @@
+# Example public domains for testing (replace with your own targets)
+# One URL or domain per line. Lines starting with # are ignored.
+
+python.org
+example.com
+httpbin.org
